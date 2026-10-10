@@ -194,14 +194,13 @@ The project identifies:
 ![Movies vs TV Shows](charts/movies_vs_tv_shows.png)
 
 ### 🌍 Top 10 Countries
+<img width="937" height="546" alt="top_10_countries" src="https://github.com/user-attachments/assets/9056e7a2-ae2e-44c1-949d-878e5e27b88e" />
 
-![Top Countries](<img width="937" height="546" alt="top_10_countries" src="https://github.com/user-attachments/assets/9056e7a2-ae2e-44c1-949d-878e5e27b88e" />
-)
 
 ### 📈 Release Year Trend
 
-![Release Year Trend](<img width="1015" height="546" alt="release_year_trend" src="https://github.com/user-attachments/assets/1790998c-0713-4001-b0ac-8806ab8578a8" />
-)
+<img width="1015" height="546" alt="release_year_trend" src="https://github.com/user-attachments/assets/1790998c-0713-4001-b0ac-8806ab8578a8" />
+
 
 ### ⭐ Content Rating Distribution
 
