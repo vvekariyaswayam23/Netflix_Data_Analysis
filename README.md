@@ -198,7 +198,6 @@ The project identifies:
 
 
 ### 📈 Release Year Trend
-
 <img width="1015" height="546" alt="release_year_trend" src="https://github.com/user-attachments/assets/1790998c-0713-4001-b0ac-8806ab8578a8" />
 
 
